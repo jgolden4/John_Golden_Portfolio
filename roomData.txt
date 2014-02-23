@@ -1,0 +1,18 @@
+WWE Champion and semiprofessional actor Dwayne "The Rock" Johnson:rock
+2:3:4
+Michael Scott from the Dunder Mifflin Paper Company:paper
+3:4
+Edward Scissor Hands:scissors
+4:5
+WWE Champion and semiprofessional actor Dwayne "The Rock" Johnson and Michael Scott from the Dunder Mifflin Paper Company:rock:paper
+5:6
+WWE Champion and semiprofessional actor Dwayne "The Rock" Johnson and Edward Scissor Hands:rock:scissors
+6:7
+Michael Scott from the Dunder Mifflin Paper Company and Edward Scissor Hands:paper:scissors
+7:8
+WWE Champion and semiprofessional actor Dwayne "The Rock" Johnson, Michael Scott from the Dunder Mifflin Paper Company, and Edward Scissor Hands:rock:paper:scissors
+8
+WWE Champion and semiprofessional actor Dwayne "The Rock" Johnson, Michael Scott from the Dunder Mifflin Paper Company, and Edward Scissor Hands, once again:rock:paper:scissors
+9
+WWE Champion and semiprofessional actor Dwayne "The Rock" Johnson, Michael Scott from the Dunder Mifflin Paper Company, and Edward Scissor Hands, once again:rock:paper:scissors
+10
